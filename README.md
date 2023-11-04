@@ -1,4 +1,4 @@
-# Movie Genre Classification using CodeSoft
+# Movie Genre Classification 
 
 ![Movie Genre Classification](movie_genre_classification.png)
 
