@@ -4,7 +4,7 @@
 
 ## Overview
 
-This CodeSoft project implements a movie genre classification system, leveraging natural language processing and machine learning techniques to predict the genre of a movie based on its plot summary and other relevant features. The system analyzes textual data and classifies movies into genres such as Action, Comedy, Drama, Sci-Fi, and more, providing valuable insights for content recommendation systems and movie enthusiasts.
+This  project implements a movie genre classification system, leveraging natural language processing and machine learning techniques to predict the genre of a movie based on its plot summary and other relevant features. The system analyzes textual data and classifies movies into genres such as Action, Comedy, Drama, Sci-Fi, and more, providing valuable insights for content recommendation systems and movie enthusiasts.
 
 ## Key Features
 
